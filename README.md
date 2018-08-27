@@ -49,4 +49,4 @@ Rename `composer.phar` to `composer` and make it executable:
 Build image, tag appropriately and push to Docker Hub:
 
     $ docker build . --tag dkdde/composer
-    $ docker push dkdde/docker-dkdde-composer
+    $ docker push dkdde/composer
